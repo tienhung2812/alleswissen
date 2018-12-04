@@ -1,0 +1,195 @@
+using System;
+using System.Windows.Forms;
+
+using MySql.Data.MySqlClient;
+
+namespace WindowsFormsApp1
+{
+    public partial class Answer : Form
+    {
+        private MySqlConnection conn;
+        private string server;
+        private string port;
+        private string database;
+        private string uid;
+        private string password;
+        public int id = 1 ;
+        private string localquestion;
+        private string localanswer;
+
+        public Answer()
+        {
+            InitializeComponent();        
+            
+        }
+
+
+        public bool getQ(int id)
+        {
+            string query = $"SELECT * FROM question WHERE id = {id}";
+
+            try
+            {
+                if (OpenConnection())
+                {
+                    MySqlCommand cmd = new MySqlCommand(query, conn);
+                    MySqlDataReader reader = cmd.ExecuteReader();
+                    if (reader.Read())
+                    {
+                        localquestion = (string)reader["Q"];
+                        localanswer = (string)reader["A"];
+                        reader.Close();
+                        conn.Close();
+                        return true;
+
+                    }
+                    else
+                    {
+                        reader.Close();
+                        conn.Close();
+                        return false;
+                    }
+
+                }
+                else
+                {
+                    conn.Close();
+                    return false;
+                }
+            }
+            catch (Exception ex)
+            {
+                conn.Close();
+                return false;
+            }
+        }
+
+        private bool OpenConnection()
+        {
+            try
+            {
+                conn.Open();
+                return true;
+            }
+
+            catch (MySqlException ex)
+            {
+                switch (ex.Number)
+                {
+                    case 0:
+                        MessageBox.Show("Connection to the server failed!");
+                        break;
+                    case 1045:
+                        MessageBox.Show("Server username or password is incorrect");
+                        break;
+                }
+                return false;
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void Next_Click(object sender, EventArgs e)
+        {
+            if (txtA.Text == localanswer)
+            {
+                MessageBox.Show($"Your answer is {txtA.Text}\nCorrect!");
+                
+            }
+            else
+            {
+                MessageBox.Show($"Your answer is{txtA.Text}\nWrong!\nIt is {localanswer}");
+            }
+            id++;
+            getQ(id);
+            txtQ.Text = localquestion;
+
+        }
+
+        private void txtQ_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void Answer_Load(object sender, EventArgs e)
+        {
+            txtQ.Text = localquestion;
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void connect_Click(object sender, EventArgs e)
+        {
+            id = 1;
+            if (string.IsNullOrWhiteSpace(txtIPadd.Text))
+            {
+                server = "localhost";
+
+            }
+            else
+            {
+                server = txtIPadd.Text;
+            }
+            if (string.IsNullOrWhiteSpace(txtPort.Text))
+            {
+                port = "3306";
+
+            }
+            else
+            {
+                port = txtPort.Text;
+            }
+            database = "test";
+            uid = "root";
+            password = "";
+////////////if it still unsucessful: GRANT ALL PRIVILEGES ON *.* TO root@"%" IDENTIFIED BY 'rootPass';
+            string connString;
+            connString = $"SERVER={server};PORT={port};DATABASE={database};UID={uid};PASSWORD={password}" +
+                    $";";
+            try
+            {
+                conn = new MySqlConnection(connString);
+            }
+            catch (MySqlException ex)
+            {
+                switch (ex.Number)
+                {
+                    case 0:
+                        MessageBox.Show("Connection to the server failed!");
+                        break;
+                    case 1045:
+                        MessageBox.Show("Server username or password is incorrect");
+                        break;
+                }
+                
+            }
+
+            getQ(id);
+
+            if (OpenConnection())
+            {
+                MessageBox.Show($"Connect successful\nIP:{txtIPadd.Text}\nPort:{txtPort.Text}");
+            }
+            else
+            {
+                MessageBox.Show($"Connect unsuccessful\nIP:{txtIPadd.Text}\nPort:{txtPort.Text}");
+            }
+        }
+
+        private void ShowQuestion_Click(object sender, EventArgs e)
+        {
+            this.txtQ.Text = localquestion;
+        }
+
+        private void txtIPadd_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

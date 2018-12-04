@@ -1,0 +1,10 @@
+Lay cau hoi : $"SELECT * FROM de WHERE goi={gid} id ={id}"
+Lay Diem Thi Sinh: $"SELECT diem FROM thisinh WHERE id = {uid}"
+Nhap Diem Thi Sinh: $"UPDATE thisinh SET diem = {p} WHERE id = {uid}"
+
+
+Chu thich:
+	id = STT cau hoi
+	gid = Goi cau hoi
+	uid = STT nhom
+	p = diem

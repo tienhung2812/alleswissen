@@ -1,0 +1,8 @@
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\bin\Release\vongkhoidong.exe.config
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\bin\Release\vongkhoidong.exe
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\bin\Release\vongkhoidong.pdb
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\obj\Release\vongkhoidong.Form1.resources
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\obj\Release\vongkhoidong.Properties.Resources.resources
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\obj\Release\vongkhoidong.csproj.GenerateResource.Cache
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\obj\Release\vongkhoidong.exe
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\obj\Release\vongkhoidong.pdb

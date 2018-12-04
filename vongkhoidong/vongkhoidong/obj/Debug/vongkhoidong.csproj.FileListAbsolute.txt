@@ -1,0 +1,9 @@
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\bin\Debug\vongkhoidong.exe.config
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\bin\Debug\vongkhoidong.exe
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\bin\Debug\vongkhoidong.pdb
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\obj\Debug\vongkhoidong.csprojResolveAssemblyReference.cache
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\obj\Debug\vongkhoidong.Form1.resources
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\obj\Debug\vongkhoidong.Properties.Resources.resources
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\obj\Debug\vongkhoidong.csproj.GenerateResource.Cache
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\obj\Debug\vongkhoidong.exe
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\obj\Debug\vongkhoidong.pdb

@@ -1,0 +1,25 @@
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\bin\Debug\Vong_ve_dich_client.exe.config
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\bin\Debug\Vong_ve_dich_client.exe
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\bin\Debug\Vong_ve_dich_client.pdb
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\obj\Debug\Vong_ve_dich_client.csprojResolveAssemblyReference.cache
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\obj\Debug\Vong_ve_dich_client.Form1.resources
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\obj\Debug\Vong_ve_dich_client.Properties.Resources.resources
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\obj\Debug\Vong_ve_dich_client.csproj.GenerateResource.Cache
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\obj\Debug\Vong_ve_dich_client.exe
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\obj\Debug\Vong_ve_dich_client.pdb
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\bin\Debug\CircularProgressBar.dll
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\bin\Debug\WinFormAnimation.dll
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\bin\Debug\CircularProgressBar.xml
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\bin\Debug\WinFormAnimation.xml
+D:\VGU\AW\Vong_ve_dich_client_new\Vong_ve_dich_client_new\Vong_ve_dich_client\obj\Debug\Vong_ve_dich_client.csprojResolveAssemblyReference.cache
+D:\VGU\AW\Vong_ve_dich_client_new\Vong_ve_dich_client_new\Vong_ve_dich_client\obj\Debug\Vong_ve_dich_client.Form1.resources
+D:\VGU\AW\Vong_ve_dich_client_new\Vong_ve_dich_client_new\Vong_ve_dich_client\obj\Debug\Vong_ve_dich_client.Properties.Resources.resources
+D:\VGU\AW\Vong_ve_dich_client_new\Vong_ve_dich_client_new\Vong_ve_dich_client\obj\Debug\Vong_ve_dich_client.csproj.GenerateResource.Cache
+D:\VGU\AW\Vong_ve_dich_client_new\Vong_ve_dich_client_new\Vong_ve_dich_client\obj\Debug\Vong_ve_dich_client.exe
+D:\VGU\AW\Vong_ve_dich_client_new\Vong_ve_dich_client_new\Vong_ve_dich_client\obj\Debug\Vong_ve_dich_client.pdb
+D:\VGU\AW\Vong_ve_dich_client_new\Vong_ve_dich_client_new\Vong_ve_dich_client\bin\Debug\Vong_ve_dich_client.exe.config
+D:\VGU\AW\Vong_ve_dich_client_new\Vong_ve_dich_client_new\Vong_ve_dich_client\bin\Debug\Vong_ve_dich_client.exe
+D:\VGU\AW\Vong_ve_dich_client_new\Vong_ve_dich_client_new\Vong_ve_dich_client\bin\Debug\Vong_ve_dich_client.pdb
+D:\VGU\AW\Vong_ve_dich_client_new\Vong_ve_dich_client_new\Vong_ve_dich_client\bin\Debug\WinFormAnimation.dll
+D:\VGU\AW\Vong_ve_dich_client_new\Vong_ve_dich_client_new\Vong_ve_dich_client\bin\Debug\CircularProgressBar.xml
+D:\VGU\AW\Vong_ve_dich_client_new\Vong_ve_dich_client_new\Vong_ve_dich_client\bin\Debug\WinFormAnimation.xml

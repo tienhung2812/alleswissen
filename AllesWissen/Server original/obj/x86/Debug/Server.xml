@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Server
+</name>
+</assembly>
+<members>
+<member name="M:ServerTangToc.frmServer.SendQuestion">
+	<summary>
+ Gởi nội dung câu hỏi tới tất cả thí sinh
+ </summary>
+	<remarks></remarks>
+</member><member name="M:ServerTangToc.frmServer.ShowThiSinhCNV">
+	<summary>
+ Show tên thí sinh trả lời CNV
+ </summary>
+	<remarks></remarks>
+</member><member name="M:ServerTangToc.frmServer.SendCommand(System.Int32)">
+	<summary>
+ Send command-only to all ClientWrite
+ </summary>
+	<param name="cmd"></param>
+	<remarks></remarks>
+</member><member name="P:ServerTangToc.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ServerTangToc.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ServerTangToc.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

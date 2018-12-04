@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Server
+</name>
+</assembly>
+<members>
+<member name="M:ServerTangToc.frmServer.SendQuestion">
+	<summary>
+ Gởi nội dung câu hỏi tới tất cả thí sinh
+ </summary>
+	<remarks></remarks>
+</member><member name="M:ServerTangToc.frmServer.ShowThiSinhCNV">
+	<summary>
+ Show tên thí sinh trả lời CNV
+ </summary>
+	<remarks></remarks>
+</member><member name="M:ServerTangToc.frmServer.SendCommand(System.Int32)">
+	<summary>
+ Send command-only to all ClientWrite
+ </summary>
+	<param name="cmd"></param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

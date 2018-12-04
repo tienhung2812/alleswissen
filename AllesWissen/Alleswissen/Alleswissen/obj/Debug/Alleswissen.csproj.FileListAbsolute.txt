@@ -1,0 +1,42 @@
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\obj\Debug\Alleswissen.csprojResolveAssemblyReference.cache
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\obj\Debug\Alleswissen.Login.resources
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\obj\Debug\Alleswissen.Properties.Resources.resources
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\obj\Debug\Alleswissen.Vong1.resources
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\obj\Debug\Alleswissen.csproj.GenerateResource.Cache
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\bin\Debug\Alleswissen.exe.config
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\bin\Debug\Alleswissen.exe
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\bin\Debug\Alleswissen.pdb
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\bin\Debug\MaterialSkin.dll
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\bin\Debug\MySql.Data.dll
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\bin\Debug\MySql.Data.xml
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\obj\Debug\Alleswissen.exe
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\obj\Debug\Alleswissen.pdb
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\obj\Debug\Interop.WMPLib.dll
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\obj\Debug\AxInterop.WMPLib.dll
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\obj\Debug\Alleswissen.csproj.ResolveComReference.cache
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\obj\Debug\Alleswissen.Vong4.resources
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\obj\Debug\Alleswissen.Vong3.resources
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\obj\Debug\Alleswissen.Vong2.resources
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\bin\Debug\Interop.WMPLib.dll
+c:\users\tuan\documents\visual studio 2017\Projects\Alleswissen\Alleswissen\bin\Debug\AxInterop.WMPLib.dll
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\obj\Debug\Alleswissen.csprojResolveAssemblyReference.cache
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\obj\Debug\Interop.WMPLib.dll
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\obj\Debug\AxInterop.WMPLib.dll
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\obj\Debug\Alleswissen.csproj.ResolveComReference.cache
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\obj\Debug\Alleswissen.Login.resources
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\obj\Debug\Alleswissen.Properties.Resources.resources
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\obj\Debug\Alleswissen.Vong4.resources
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\obj\Debug\Alleswissen.Vong3.resources
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\obj\Debug\Alleswissen.Vong2.resources
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\obj\Debug\Alleswissen.Vong1.resources
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\obj\Debug\Alleswissen.csproj.GenerateResource.Cache
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\obj\Debug\Alleswissen.exe
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\obj\Debug\Alleswissen.pdb
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\bin\Debug\Alleswissen.exe.config
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\bin\Debug\Alleswissen.exe
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\bin\Debug\Alleswissen.pdb
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\bin\Debug\MaterialSkin.dll
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\bin\Debug\MySql.Data.dll
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\bin\Debug\MySql.Data.xml
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\bin\Debug\Interop.WMPLib.dll
+D:\VGU\AW\AllesWissen\Alleswissen\Alleswissen\bin\Debug\AxInterop.WMPLib.dll

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Server original\backup2012\Backup\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Server original\backup2012\Backup\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\Server original\backup2012\Backup\obj\x86\Debug\ServerEntropy.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Server original\backup2012\Backup\bin\x86\Debug\Server.exe
+C:\Users\Administrator\Desktop\Server original\backup2012\Backup\bin\x86\Debug\Server.pdb
+C:\Users\Administrator\Desktop\Server original\backup2012\Backup\bin\x86\Debug\Server.xml
+C:\Users\Administrator\Desktop\Server original\backup2012\Backup\bin\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Server original\backup2012\Backup\bin\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\Server original\backup2012\Backup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Server original\backup2012\Backup\obj\x86\Debug\ServerTangToc.frmServer.resources
+C:\Users\Administrator\Desktop\Server original\backup2012\Backup\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\Server original\backup2012\Backup\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Server original\backup2012\Backup\obj\x86\Debug\Server.exe
+C:\Users\Administrator\Desktop\Server original\backup2012\Backup\obj\x86\Debug\Server.xml
+C:\Users\Administrator\Desktop\Server original\backup2012\Backup\obj\x86\Debug\Server.pdb

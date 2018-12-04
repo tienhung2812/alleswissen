@@ -1,0 +1,13 @@
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\bin\x64\Debug\vongkhoidong.exe.config
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\bin\x64\Debug\vongkhoidong.exe
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\bin\x64\Debug\vongkhoidong.pdb
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\obj\x64\Debug\vongkhoidong.Properties.Resources.resources
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\obj\x64\Debug\vongkhoidong.csproj.GenerateResource.Cache
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\obj\x64\Debug\vongkhoidong.exe
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\obj\x64\Debug\vongkhoidong.pdb
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\obj\x64\Debug\vongkhoidong.csprojResolveAssemblyReference.cache
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\bin\x64\Debug\Excel.dll
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\bin\x64\Debug\ICSharpCode.SharpZipLib.dll
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\bin\x64\Debug\Excel.pdb
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\obj\x64\Debug\vongkhoidong.clientvong1.resources
+D:\HOCTAP\Project\vongkhoidong\vongkhoidong\obj\x64\Debug\vongkhoidong.Trinhchieu.resources

@@ -1,0 +1,9 @@
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_trinh_chieu\Vong_ve_dich_trinh_chieu\bin\Debug\Vong_ve_dich_trinh_chieu.exe.config
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_trinh_chieu\Vong_ve_dich_trinh_chieu\bin\Debug\Vong_ve_dich_trinh_chieu.exe
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_trinh_chieu\Vong_ve_dich_trinh_chieu\bin\Debug\Vong_ve_dich_trinh_chieu.pdb
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_trinh_chieu\Vong_ve_dich_trinh_chieu\obj\Debug\Vong_ve_dich_trinh_chieu.Properties.Resources.resources
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_trinh_chieu\Vong_ve_dich_trinh_chieu\obj\Debug\Vong_ve_dich_trinh_chieu.csproj.GenerateResource.Cache
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_trinh_chieu\Vong_ve_dich_trinh_chieu\obj\Debug\Vong_ve_dich_trinh_chieu.exe
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_trinh_chieu\Vong_ve_dich_trinh_chieu\obj\Debug\Vong_ve_dich_trinh_chieu.pdb
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_trinh_chieu\Vong_ve_dich_trinh_chieu\obj\Debug\Vong_ve_dich_trinh_chieu.csprojResolveAssemblyReference.cache
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_trinh_chieu\Vong_ve_dich_trinh_chieu\obj\Debug\Vong_ve_dich_trinh_chieu.Vedich.resources

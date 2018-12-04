@@ -1,0 +1,9 @@
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\bin\Debug\Vong_ve_dich_client.exe.config
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\bin\Debug\Vong_ve_dich_client.exe
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\bin\Debug\Vong_ve_dich_client.pdb
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\obj\Debug\Vong_ve_dich_client.csprojResolveAssemblyReference.cache
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\obj\Debug\Vong_ve_dich_client.Form1.resources
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\obj\Debug\Vong_ve_dich_client.Properties.Resources.resources
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\obj\Debug\Vong_ve_dich_client.csproj.GenerateResource.Cache
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\obj\Debug\Vong_ve_dich_client.exe
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vong_ve_dich_client\Vong_ve_dich_client\obj\Debug\Vong_ve_dich_client.pdb

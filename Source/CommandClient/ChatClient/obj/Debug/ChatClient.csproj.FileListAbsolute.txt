@@ -1,0 +1,6 @@
+D:\VGU\AW\Source\CommandClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+D:\VGU\AW\Source\CommandClient\ChatClient\obj\Debug\ChatClient.frmPrivate.resources
+D:\VGU\AW\Source\CommandClient\ChatClient\obj\Debug\ChatClient.frmMain.resources
+D:\VGU\AW\Source\CommandClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\VGU\AW\Source\CommandClient\ChatClient\obj\Debug\ChatClient.frmLogin.resources
+D:\VGU\AW\Source\CommandClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+D:\HOCTAP\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\HOCTAP\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\HOCTAP\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\HOCTAP\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\vongkhoidong.Form1.resources
+D:\HOCTAP\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\HOCTAP\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\vong3.csproj.GenerateResource.Cache
+D:\HOCTAP\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\HOCTAP\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

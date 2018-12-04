@@ -1,0 +1,117 @@
+D:\Project\Entropy\ServerEntropy\obj\x86\Debug\Interop.WMPLib.dll
+D:\Project\Entropy\ServerEntropy\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Project\Entropy\ServerEntropy\obj\x86\Debug\ServerEntropy.vbproj.ResolveComReference.cache
+D:\Project\Entropy\ServerEntropy\obj\x86\Debug\Server.exe
+D:\Project\Entropy\ServerEntropy\obj\x86\Debug\Server.xml
+D:\Project\Entropy\ServerEntropy\obj\x86\Debug\Server.pdb
+D:\Project\Entropy\ServerEntropy\bin\x86\Debug\Server.exe
+D:\Project\Entropy\ServerEntropy\bin\x86\Debug\Server.pdb
+D:\Project\Entropy\ServerEntropy\bin\x86\Debug\Server.xml
+D:\Project\Entropy\ServerEntropy\bin\x86\Debug\Interop.WMPLib.dll
+D:\Project\Entropy\ServerEntropy\bin\x86\Debug\AxInterop.WMPLib.dll
+D:\Project\Entropy\ServerEntropy\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\Entropy\ServerEntropy\obj\x86\Debug\ServerTangToc.frmServer.resources
+D:\Project\Entropy\ServerEntropy\obj\x86\Debug\ResGen.read.1.tlog
+D:\Project\Entropy\ServerEntropy\obj\x86\Debug\ResGen.write.1.tlog
+D:\SkyDrive\Project\Entropy\ServerEntropy\obj\x86\Debug\Interop.WMPLib.dll
+D:\SkyDrive\Project\Entropy\ServerEntropy\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\SkyDrive\Project\Entropy\ServerEntropy\obj\x86\Debug\ServerEntropy.vbproj.ResolveComReference.cache
+D:\SkyDrive\Project\Entropy\ServerEntropy\obj\x86\Debug\Server.exe
+D:\SkyDrive\Project\Entropy\ServerEntropy\obj\x86\Debug\Server.xml
+D:\SkyDrive\Project\Entropy\ServerEntropy\obj\x86\Debug\Server.pdb
+D:\SkyDrive\Project\Entropy\ServerEntropy\bin\x86\Debug\Server.exe
+D:\SkyDrive\Project\Entropy\ServerEntropy\bin\x86\Debug\Server.pdb
+D:\SkyDrive\Project\Entropy\ServerEntropy\bin\x86\Debug\Server.xml
+D:\SkyDrive\Project\Entropy\ServerEntropy\bin\x86\Debug\Interop.WMPLib.dll
+D:\SkyDrive\Project\Entropy\ServerEntropy\bin\x86\Debug\AxInterop.WMPLib.dll
+D:\SkyDrive\Project\Entropy\ServerEntropy\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SkyDrive\Project\Entropy\ServerEntropy\obj\x86\Debug\ServerTangToc.frmServer.resources
+D:\SkyDrive\Project\Entropy\ServerEntropy\obj\x86\Debug\ResGen.read.1.tlog
+D:\SkyDrive\Project\Entropy\ServerEntropy\obj\x86\Debug\ResGen.write.1.tlog
+D:\SkyDrive\Project\Entropy\ServerEntropy\obj\x86\Debug\ServerTangToc.Resources.resources
+C:\Users\Administrator\Desktop\Test\ServerEntropy\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Test\ServerEntropy\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\Test\ServerEntropy\obj\x86\Debug\ServerEntropy.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Test\ServerEntropy\obj\x86\Debug\Server.exe
+C:\Users\Administrator\Desktop\Test\ServerEntropy\obj\x86\Debug\Server.xml
+C:\Users\Administrator\Desktop\Test\ServerEntropy\obj\x86\Debug\Server.pdb
+C:\Users\Administrator\Desktop\Test\ServerEntropy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Test\ServerEntropy\obj\x86\Debug\ServerTangToc.Resources.resources
+C:\Users\Administrator\Desktop\Test\ServerEntropy\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\Test\ServerEntropy\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Test\ServerEntropy\bin\x86\Debug\Server.exe
+C:\Users\Administrator\Desktop\Test\ServerEntropy\bin\x86\Debug\Server.pdb
+C:\Users\Administrator\Desktop\Test\ServerEntropy\bin\x86\Debug\Server.xml
+C:\Users\Administrator\Desktop\Test\ServerEntropy\bin\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Test\ServerEntropy\bin\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\Test\ServerEntropy\obj\x86\Debug\ServerTangToc.frmServer.resources
+C:\Users\Administrator\Desktop\Test\Server original\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Test\Server original\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\Test\Server original\obj\x86\Debug\ServerEntropy.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Test\Server original\obj\x86\Debug\Server.exe
+C:\Users\Administrator\Desktop\Test\Server original\obj\x86\Debug\Server.xml
+C:\Users\Administrator\Desktop\Test\Server original\obj\x86\Debug\Server.pdb
+C:\Users\Administrator\Desktop\Test\Server original\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Test\Server original\obj\x86\Debug\ServerTangToc.frmServer.resources
+C:\Users\Administrator\Desktop\Test\Server original\obj\x86\Debug\ServerTangToc.Resources.resources
+C:\Users\Administrator\Desktop\Test\Server original\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\Test\Server original\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Test\Server original\bin\x86\Debug\Server.exe
+C:\Users\Administrator\Desktop\Test\Server original\bin\x86\Debug\Server.pdb
+C:\Users\Administrator\Desktop\Test\Server original\bin\x86\Debug\Server.xml
+C:\Users\Administrator\Desktop\Test\Server original\bin\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Test\Server original\bin\x86\Debug\AxInterop.WMPLib.dll
+D:\SkyDrive\Project\Entropy\Server original\obj\x86\Debug\Interop.WMPLib.dll
+D:\SkyDrive\Project\Entropy\Server original\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\SkyDrive\Project\Entropy\Server original\obj\x86\Debug\ServerEntropy.vbproj.ResolveComReference.cache
+D:\SkyDrive\Project\Entropy\Server original\obj\x86\Debug\Server.exe
+D:\SkyDrive\Project\Entropy\Server original\obj\x86\Debug\Server.xml
+D:\SkyDrive\Project\Entropy\Server original\obj\x86\Debug\Server.pdb
+D:\SkyDrive\Project\Entropy\Server original\bin\x86\Debug\Server.exe
+D:\SkyDrive\Project\Entropy\Server original\bin\x86\Debug\Server.pdb
+D:\SkyDrive\Project\Entropy\Server original\bin\x86\Debug\Server.xml
+D:\SkyDrive\Project\Entropy\Server original\bin\x86\Debug\Interop.WMPLib.dll
+D:\SkyDrive\Project\Entropy\Server original\bin\x86\Debug\AxInterop.WMPLib.dll
+D:\SkyDrive\Project\Entropy\Server original\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SkyDrive\Project\Entropy\Server original\obj\x86\Debug\ServerTangToc.frmServer.resources
+D:\SkyDrive\Project\Entropy\Server original\obj\x86\Debug\ServerTangToc.Resources.resources
+D:\SkyDrive\Project\Entropy\Server original\obj\x86\Debug\ResGen.read.1.tlog
+D:\SkyDrive\Project\Entropy\Server original\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Server original\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Server original\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\Server original\obj\x86\Debug\ServerEntropy.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Server original\obj\x86\Debug\Server.exe
+C:\Users\Administrator\Desktop\Server original\obj\x86\Debug\Server.xml
+C:\Users\Administrator\Desktop\Server original\obj\x86\Debug\Server.pdb
+C:\Users\Administrator\Desktop\Server original\bin\x86\Debug\Server.exe
+C:\Users\Administrator\Desktop\Server original\bin\x86\Debug\Server.pdb
+C:\Users\Administrator\Desktop\Server original\bin\x86\Debug\Server.xml
+C:\Users\Administrator\Desktop\Server original\bin\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Server original\bin\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\Server original\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Server original\obj\x86\Debug\ServerTangToc.frmServer.resources
+C:\Users\Administrator\Desktop\Server original\obj\x86\Debug\ServerTangToc.Resources.resources
+C:\Users\Administrator\Desktop\Server original\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\Server original\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Soft AllesWissen\Server original\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\Server original\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\Server original\obj\x86\Debug\ServerEntropy.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Soft AllesWissen\Server original\obj\x86\Debug\Server.exe
+C:\Users\Administrator\Desktop\Soft AllesWissen\Server original\obj\x86\Debug\Server.xml
+C:\Users\Administrator\Desktop\Soft AllesWissen\Server original\obj\x86\Debug\Server.pdb
+C:\Users\Administrator\Desktop\Soft AllesWissen\Server original\bin\x86\Debug\Server.exe
+C:\Users\Administrator\Desktop\Soft AllesWissen\Server original\bin\x86\Debug\Server.pdb
+C:\Users\Administrator\Desktop\Soft AllesWissen\Server original\bin\x86\Debug\Server.xml
+C:\Users\Administrator\Desktop\Soft AllesWissen\Server original\bin\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\Server original\bin\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\Server original\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Soft AllesWissen\Server original\obj\x86\Debug\ServerTangToc.frmServer.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\Server original\obj\x86\Debug\ServerTangToc.Resources.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\Server original\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\Soft AllesWissen\Server original\obj\x86\Debug\ResGen.write.1.tlog
+D:\Project\AllesWissen\Server original\obj\x86\Debug\Interop.WMPLib.dll
+D:\Project\AllesWissen\Server original\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Project\AllesWissen\Server original\obj\x86\Debug\ServerEntropy.vbproj.ResolveComReference.cache
+D:\Project\AllesWissen\Server original\obj\x86\Debug\Server.exe
+D:\Project\AllesWissen\Server original\obj\x86\Debug\Server.xml
+D:\Project\AllesWissen\Server original\obj\x86\Debug\Server.pdb

@@ -1,0 +1,12 @@
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vuot_chuong_ngai_vat_client\Vuot_chuong_ngai_vat_client\bin\Debug\Vuot_chuong_ngai_vat_client.exe.config
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vuot_chuong_ngai_vat_client\Vuot_chuong_ngai_vat_client\bin\Debug\Vuot_chuong_ngai_vat_client.exe
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vuot_chuong_ngai_vat_client\Vuot_chuong_ngai_vat_client\bin\Debug\Vuot_chuong_ngai_vat_client.pdb
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vuot_chuong_ngai_vat_client\Vuot_chuong_ngai_vat_client\obj\Debug\Vuot_chuong_ngai_vat_client.csprojResolveAssemblyReference.cache
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vuot_chuong_ngai_vat_client\Vuot_chuong_ngai_vat_client\obj\Debug\Vuot_chuong_ngai_vat_client.Properties.Resources.resources
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vuot_chuong_ngai_vat_client\Vuot_chuong_ngai_vat_client\obj\Debug\Vuot_chuong_ngai_vat_client.csproj.GenerateResource.Cache
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vuot_chuong_ngai_vat_client\Vuot_chuong_ngai_vat_client\obj\Debug\Vuot_chuong_ngai_vat_client.exe
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vuot_chuong_ngai_vat_client\Vuot_chuong_ngai_vat_client\obj\Debug\Vuot_chuong_ngai_vat_client.pdb
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vuot_chuong_ngai_vat_client\Vuot_chuong_ngai_vat_client\obj\Debug\Vuot_chuong_ngai_vat_client.Vong_vuot_chuong_ngai_vat_client.resources
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vuot_chuong_ngai_vat_client\Vuot_chuong_ngai_vat_client\obj\Debug\Interop.WMPLib.dll
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vuot_chuong_ngai_vat_client\Vuot_chuong_ngai_vat_client\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\eeit2\Documents\Visual Studio 2013\Projects\AW\Vuot_chuong_ngai_vat_client\Vuot_chuong_ngai_vat_client\obj\Debug\Vuot_chuong_ngai_vat_client.csproj.ResolveComReference.cache

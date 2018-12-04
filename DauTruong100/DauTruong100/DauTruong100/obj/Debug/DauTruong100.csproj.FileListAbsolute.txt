@@ -1,0 +1,56 @@
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\bin\Debug\DauTruong100.exe.config
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\bin\Debug\DauTruong100.exe
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\bin\Debug\DauTruong100.pdb
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\obj\Debug\DauTruong100.csprojResolveAssemblyReference.cache
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\obj\Debug\DauTruong100.Form1.resources
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\obj\Debug\DauTruong100.Properties.Resources.resources
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\obj\Debug\DauTruong100.csproj.GenerateResource.Cache
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\obj\Debug\DauTruong100.exe
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\obj\Debug\DauTruong100.pdb
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\obj\Debug\DauTruong100.MainProgram.resources
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\obj\Debug\DauTruong100.Option.resources
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\bin\Debug\Excel.dll
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\bin\Debug\Excel.pdb
+E:\DauTruong100\DauTruong100\bin\Debug\DauTruong100.exe.config
+E:\DauTruong100\DauTruong100\obj\Debug\DauTruong100.exe
+E:\DauTruong100\DauTruong100\obj\Debug\DauTruong100.pdb
+E:\DauTruong100\DauTruong100\bin\Debug\DauTruong100.exe
+E:\DauTruong100\DauTruong100\bin\Debug\DauTruong100.pdb
+E:\DauTruong100\DauTruong100\bin\Debug\Excel.dll
+E:\DauTruong100\DauTruong100\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\DauTruong100\DauTruong100\bin\Debug\Excel.pdb
+E:\DauTruong100\DauTruong100\obj\Debug\DauTruong100.csprojResolveAssemblyReference.cache
+E:\DauTruong100\DauTruong100\obj\Debug\DauTruong100.Form1.resources
+E:\DauTruong100\DauTruong100\obj\Debug\DauTruong100.MainProgram.resources
+E:\DauTruong100\DauTruong100\obj\Debug\DauTruong100.Option.resources
+E:\DauTruong100\DauTruong100\obj\Debug\DauTruong100.Properties.Resources.resources
+E:\DauTruong100\DauTruong100\obj\Debug\DauTruong100.csproj.GenerateResource.Cache
+D:\BackUp USB 24_4_2017\DauTruong100\DauTruong100\bin\Debug\DauTruong100.exe.config
+D:\BackUp USB 24_4_2017\DauTruong100\DauTruong100\bin\Debug\DauTruong100.exe
+D:\BackUp USB 24_4_2017\DauTruong100\DauTruong100\bin\Debug\DauTruong100.pdb
+D:\BackUp USB 24_4_2017\DauTruong100\DauTruong100\bin\Debug\Excel.dll
+D:\BackUp USB 24_4_2017\DauTruong100\DauTruong100\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\BackUp USB 24_4_2017\DauTruong100\DauTruong100\bin\Debug\Excel.pdb
+D:\BackUp USB 24_4_2017\DauTruong100\DauTruong100\obj\Debug\DauTruong100.csprojResolveAssemblyReference.cache
+D:\BackUp USB 24_4_2017\DauTruong100\DauTruong100\obj\Debug\DauTruong100.Form1.resources
+D:\BackUp USB 24_4_2017\DauTruong100\DauTruong100\obj\Debug\DauTruong100.MainProgram.resources
+D:\BackUp USB 24_4_2017\DauTruong100\DauTruong100\obj\Debug\DauTruong100.Option.resources
+D:\BackUp USB 24_4_2017\DauTruong100\DauTruong100\obj\Debug\DauTruong100.Properties.Resources.resources
+D:\BackUp USB 24_4_2017\DauTruong100\DauTruong100\obj\Debug\DauTruong100.csproj.GenerateResource.Cache
+D:\BackUp USB 24_4_2017\DauTruong100\DauTruong100\obj\Debug\DauTruong100.exe
+D:\BackUp USB 24_4_2017\DauTruong100\DauTruong100\obj\Debug\DauTruong100.pdb
+D:\VGU\AW\DauTruong100\DauTruong100\DauTruong100\bin\Debug\DauTruong100.exe.config
+D:\VGU\AW\DauTruong100\DauTruong100\DauTruong100\bin\Debug\DauTruong100.exe
+D:\VGU\AW\DauTruong100\DauTruong100\DauTruong100\bin\Debug\DauTruong100.pdb
+D:\VGU\AW\DauTruong100\DauTruong100\DauTruong100\bin\Debug\Excel.dll
+D:\VGU\AW\DauTruong100\DauTruong100\DauTruong100\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\VGU\AW\DauTruong100\DauTruong100\DauTruong100\bin\Debug\Excel.pdb
+D:\VGU\AW\DauTruong100\DauTruong100\DauTruong100\obj\Debug\DauTruong100.csprojResolveAssemblyReference.cache
+D:\VGU\AW\DauTruong100\DauTruong100\DauTruong100\obj\Debug\DauTruong100.Form1.resources
+D:\VGU\AW\DauTruong100\DauTruong100\DauTruong100\obj\Debug\DauTruong100.MainProgram.resources
+D:\VGU\AW\DauTruong100\DauTruong100\DauTruong100\obj\Debug\DauTruong100.Option.resources
+D:\VGU\AW\DauTruong100\DauTruong100\DauTruong100\obj\Debug\DauTruong100.Properties.Resources.resources
+D:\VGU\AW\DauTruong100\DauTruong100\DauTruong100\obj\Debug\DauTruong100.csproj.GenerateResource.Cache
+D:\VGU\AW\DauTruong100\DauTruong100\DauTruong100\obj\Debug\DauTruong100.exe
+D:\VGU\AW\DauTruong100\DauTruong100\DauTruong100\obj\Debug\DauTruong100.pdb

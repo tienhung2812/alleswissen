@@ -1,0 +1,13 @@
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\bin\Release\DauTruong100.exe.config
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\bin\Release\DauTruong100.exe
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\bin\Release\DauTruong100.pdb
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\bin\Release\Excel.dll
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\bin\Release\Excel.pdb
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\obj\Release\DauTruong100.Form1.resources
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\obj\Release\DauTruong100.MainProgram.resources
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\obj\Release\DauTruong100.Option.resources
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\obj\Release\DauTruong100.Properties.Resources.resources
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\obj\Release\DauTruong100.csproj.GenerateResource.Cache
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\obj\Release\DauTruong100.exe
+C:\Users\HaiDang\Desktop\AllesWissen\DauTruong100\DauTruong100\obj\Release\DauTruong100.pdb

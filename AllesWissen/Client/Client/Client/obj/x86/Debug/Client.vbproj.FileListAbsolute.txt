@@ -1,0 +1,36 @@
+C:\Users\Administrator\Desktop\Client\Client\Client\bin\Debug\Client.exe
+C:\Users\Administrator\Desktop\Client\Client\Client\bin\Debug\Client.pdb
+C:\Users\Administrator\Desktop\Client\Client\Client\bin\Debug\Client.xml
+C:\Users\Administrator\Desktop\Client\Client\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Client\Client\Client\obj\x86\Debug\Client.frmMain.resources
+C:\Users\Administrator\Desktop\Client\Client\Client\obj\x86\Debug\Client.Resources.resources
+C:\Users\Administrator\Desktop\Client\Client\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Client\Client\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Client\Client\Client\obj\x86\Debug\Client.exe
+C:\Users\Administrator\Desktop\Client\Client\Client\obj\x86\Debug\Client.xml
+C:\Users\Administrator\Desktop\Client\Client\Client\obj\x86\Debug\Client.pdb
+D:\Backup\20141223\Soft AllesWissen\Client\Client\Client\obj\x86\Debug\Client.exe
+D:\Backup\20141223\Soft AllesWissen\Client\Client\Client\obj\x86\Debug\Client.xml
+D:\Backup\20141223\Soft AllesWissen\Client\Client\Client\obj\x86\Debug\Client.pdb
+D:\Backup\20141223\Soft AllesWissen\Client\Client\Client\bin\Debug\Client.exe
+D:\Backup\20141223\Soft AllesWissen\Client\Client\Client\bin\Debug\Client.pdb
+D:\Backup\20141223\Soft AllesWissen\Client\Client\Client\bin\Debug\Client.xml
+D:\Backup\20141223\Soft AllesWissen\Client\Client\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Backup\20141223\Soft AllesWissen\Client\Client\Client\obj\x86\Debug\Client.frmMain.resources
+D:\Backup\20141223\Soft AllesWissen\Client\Client\Client\obj\x86\Debug\Client.Resources.resources
+D:\Backup\20141223\Soft AllesWissen\Client\Client\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Backup\20141223\Soft AllesWissen\Client\Client\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Soft AllesWissen\Client\Client\Client\obj\x86\Debug\Client.exe
+C:\Users\Administrator\Desktop\Soft AllesWissen\Client\Client\Client\obj\x86\Debug\Client.xml
+C:\Users\Administrator\Desktop\Soft AllesWissen\Client\Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\Administrator\Desktop\Soft AllesWissen\Client\Client\Client\bin\Debug\Client.exe
+C:\Users\Administrator\Desktop\Soft AllesWissen\Client\Client\Client\bin\Debug\Client.pdb
+C:\Users\Administrator\Desktop\Soft AllesWissen\Client\Client\Client\bin\Debug\Client.xml
+C:\Users\Administrator\Desktop\Soft AllesWissen\Client\Client\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Soft AllesWissen\Client\Client\Client\obj\x86\Debug\Client.frmMain.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\Client\Client\Client\obj\x86\Debug\Client.Resources.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\Client\Client\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Soft AllesWissen\Client\Client\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\AllesWissen\Client\Client\Client\obj\x86\Debug\Client.exe
+D:\AllesWissen\Client\Client\Client\obj\x86\Debug\Client.xml
+D:\AllesWissen\Client\Client\Client\obj\x86\Debug\Client.pdb

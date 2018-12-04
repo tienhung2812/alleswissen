@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ClientSpecial
+</name>
+</assembly>
+<members>
+<member name="M:ClientTangToc.frmMain.ShowCNVName">
+	<summary>
+ Hiện tên thí sinh trả lời CNV
+ </summary>
+	<remarks></remarks>
+</member><member name="M:ClientTangToc.frmAnswerTangToc.FillArrays">
+	<summary>
+ Điền thông tin vào các control
+ </summary>
+	<remarks></remarks>
+</member><member name="M:ClientTangToc.frmVuotCNV.OpenAllWords">
+	<summary>
+ Lật hết 8 hàng ngang
+ </summary>
+	<remarks></remarks>
+</member><member name="P:ClientTangToc.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ClientTangToc.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ClientTangToc.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:ClientTangToc.frmAnswerVCNV.FillArrays">
+	<summary>
+ Điền thông tin vào các control
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

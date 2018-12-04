@@ -1,0 +1,245 @@
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\Interop.MSDAOSP.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\Interop.MSDASC.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\Interop.WMPLib.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ClientSpecial.vbproj.ResolveComReference.cache
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ClientSpecial.exe
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ClientSpecial.xml
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ClientSpecial.pdb
+D:\SkyDrive\Project\Entropy\ClientSpecial\bin\x86\Debug\ClientSpecial.exe
+D:\SkyDrive\Project\Entropy\ClientSpecial\bin\x86\Debug\ClientSpecial.pdb
+D:\SkyDrive\Project\Entropy\ClientSpecial\bin\x86\Debug\ClientSpecial.xml
+D:\SkyDrive\Project\Entropy\ClientSpecial\bin\x86\Debug\TeamPanelControl.pdb
+D:\SkyDrive\Project\Entropy\ClientSpecial\bin\x86\Debug\Interop.MSDAOSP.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial\bin\x86\Debug\Interop.MSDASC.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial\bin\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial\bin\x86\Debug\Interop.WMPLib.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial\bin\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial\bin\x86\Debug\AxInterop.WMPLib.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ClientTangToc.frmIntroKD.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ClientTangToc.frmSound.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ClientTangToc.frmSound2.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ClientTangToc.frmVCNVPic.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ClientTangToc.frmVeDich.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ClientTangToc.frmAnswerVCNV.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ClientTangToc.frmAnswerTangToc.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ClientTangToc.frmDisplayScore.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ClientTangToc.frmMain.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ClientTangToc.frmKhoiDong.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ClientTangToc.frmTangToc.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ClientTangToc.frmVuotCNV.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ClientTangToc.frmWait.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ClientTangToc.Resources.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ResGen.read.1.tlog
+D:\SkyDrive\Project\Entropy\ClientSpecial\obj\x86\Debug\ResGen.write.1.tlog
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\Interop.MSDAOSP.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\Interop.MSDASC.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\Interop.WMPLib.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ClientSpecial.vbproj.ResolveComReference.cache
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ClientSpecial.exe
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ClientSpecial.xml
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ClientSpecial.pdb
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\bin\x86\Debug\ClientSpecial.exe
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\bin\x86\Debug\ClientSpecial.pdb
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\bin\x86\Debug\ClientSpecial.xml
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\bin\x86\Debug\TeamPanelControl.pdb
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\bin\x86\Debug\Interop.MSDAOSP.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\bin\x86\Debug\Interop.MSDASC.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\bin\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\bin\x86\Debug\Interop.WMPLib.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\bin\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\bin\x86\Debug\AxInterop.WMPLib.dll
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ClientTangToc.frmIntroKD.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ClientTangToc.frmSound.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ClientTangToc.frmSound2.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ClientTangToc.frmVCNVPic.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ClientTangToc.frmVeDich.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ClientTangToc.frmAnswerVCNV.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ClientTangToc.frmAnswerTangToc.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ClientTangToc.frmDisplayScore.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ClientTangToc.frmMain.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ClientTangToc.frmKhoiDong.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ClientTangToc.frmTangToc.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ClientTangToc.frmVuotCNV.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ClientTangToc.frmWait.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ClientTangToc.Resources.resources
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ResGen.read.1.tlog
+D:\SkyDrive\Project\Entropy\ClientSpecial2012\obj\x86\Debug\ResGen.write.1.tlog
+D:\Project\Entropy\Original\ClientSpecial2012\obj\x86\Debug\Interop.MSDAOSP.dll
+D:\Project\Entropy\Original\ClientSpecial2012\obj\x86\Debug\Interop.MSDASC.dll
+D:\Project\Entropy\Original\ClientSpecial2012\obj\x86\Debug\Interop.WMPLib.dll
+D:\Project\Entropy\Original\ClientSpecial2012\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Project\Entropy\Original\ClientSpecial2012\obj\x86\Debug\ClientSpecial.vbproj.ResolveComReference.cache
+D:\Project\Entropy\Original\ClientSpecial2012\obj\x86\Debug\ClientSpecial.exe
+D:\Project\Entropy\Original\ClientSpecial2012\obj\x86\Debug\ClientSpecial.xml
+D:\Project\Entropy\Original\ClientSpecial2012\obj\x86\Debug\ClientSpecial.pdb
+C:\Users\Administrator\Desktop\ClientSpecial2012\obj\x86\Debug\Interop.MSDAOSP.dll
+C:\Users\Administrator\Desktop\ClientSpecial2012\obj\x86\Debug\Interop.MSDASC.dll
+C:\Users\Administrator\Desktop\ClientSpecial2012\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\ClientSpecial2012\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\ClientSpecial2012\obj\x86\Debug\ClientSpecial.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\ClientSpecial2012\obj\x86\Debug\ClientSpecial.exe
+C:\Users\Administrator\Desktop\ClientSpecial2012\obj\x86\Debug\ClientSpecial.xml
+C:\Users\Administrator\Desktop\ClientSpecial2012\obj\x86\Debug\ClientSpecial.pdb
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\Interop.MSDAOSP.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\Interop.MSDASC.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ClientSpecial.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ClientSpecial.exe
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ClientSpecial.xml
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ClientSpecial.pdb
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ClientTangToc.frmIntroKD.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ClientTangToc.frmSound.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ClientTangToc.frmSound2.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ClientTangToc.frmVCNVPic.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ClientTangToc.frmVeDich.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ClientTangToc.frmAnswerVCNV.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ClientTangToc.frmAnswerTangToc.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ClientTangToc.frmDisplayScore.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ClientTangToc.frmMain.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ClientTangToc.frmKhoiDong.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ClientTangToc.frmTangToc.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ClientTangToc.frmVuotCNV.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ClientTangToc.frmWait.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ClientTangToc.Resources.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\bin\x86\Debug\ClientSpecial.exe
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\bin\x86\Debug\ClientSpecial.pdb
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\bin\x86\Debug\ClientSpecial.xml
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\bin\x86\Debug\TeamPanelControl.pdb
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\bin\x86\Debug\Interop.MSDAOSP.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\bin\x86\Debug\Interop.MSDASC.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\bin\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\bin\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\bin\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\ClientSpecial\bin\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\Interop.MSDAOSP.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\Interop.MSDASC.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ClientSpecial.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ClientSpecial.exe
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ClientSpecial.xml
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ClientSpecial.pdb
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\Interop.MSDAOSP.dll
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\Interop.MSDASC.dll
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\Interop.WMPLib.dll
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ClientSpecial.vbproj.ResolveComReference.cache
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ClientSpecial.exe
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ClientSpecial.xml
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ClientSpecial.pdb
+D:\Backup\20141223\Soft AllesWissen\MC\bin\x86\Debug\ClientSpecial.exe
+D:\Backup\20141223\Soft AllesWissen\MC\bin\x86\Debug\ClientSpecial.pdb
+D:\Backup\20141223\Soft AllesWissen\MC\bin\x86\Debug\ClientSpecial.xml
+D:\Backup\20141223\Soft AllesWissen\MC\bin\x86\Debug\TeamPanelControl.pdb
+D:\Backup\20141223\Soft AllesWissen\MC\bin\x86\Debug\Interop.MSDAOSP.dll
+D:\Backup\20141223\Soft AllesWissen\MC\bin\x86\Debug\Interop.MSDASC.dll
+D:\Backup\20141223\Soft AllesWissen\MC\bin\x86\Debug\Interop.WMPLib.dll
+D:\Backup\20141223\Soft AllesWissen\MC\bin\x86\Debug\AxInterop.WMPLib.dll
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmIntroKD.resources
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmSound.resources
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmSound2.resources
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmVCNVPic.resources
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmVeDich.resources
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmAnswerVCNV.resources
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmAnswerTangToc.resources
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmDisplayScore.resources
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmMain.resources
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmKhoiDong.resources
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmTangToc.resources
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmVuotCNV.resources
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmWait.resources
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.Resources.resources
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ResGen.read.1.tlog
+D:\Backup\20141223\Soft AllesWissen\MC\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\bin\x86\Debug\ClientSpecial.exe
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\bin\x86\Debug\ClientSpecial.pdb
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\bin\x86\Debug\ClientSpecial.xml
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\bin\x86\Debug\TeamPanelControl.pdb
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\bin\x86\Debug\Interop.MSDAOSP.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\bin\x86\Debug\Interop.MSDASC.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\bin\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\bin\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmIntroKD.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmSound.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmSound2.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmVCNVPic.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmVeDich.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmAnswerVCNV.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmAnswerTangToc.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmDisplayScore.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmMain.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmKhoiDong.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmTangToc.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmVuotCNV.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.frmWait.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ClientTangToc.Resources.resources
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC - Copy\obj\x86\Debug\Interop.MSDAOSP.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC - Copy\obj\x86\Debug\Interop.MSDASC.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC - Copy\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC - Copy\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC - Copy\obj\x86\Debug\ClientSpecial.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC - Copy\obj\x86\Debug\ClientSpecial.exe
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC - Copy\obj\x86\Debug\ClientSpecial.xml
+C:\Users\Administrator\Desktop\Soft AllesWissen\MC - Copy\obj\x86\Debug\ClientSpecial.pdb
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\Interop.MSDAOSP.dll
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\Interop.MSDASC.dll
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ClientSpecial.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ClientSpecial.exe
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ClientSpecial.xml
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ClientSpecial.pdb
+C:\Users\Administrator\Desktop\MC\bin\x86\Debug\ClientSpecial.exe
+C:\Users\Administrator\Desktop\MC\bin\x86\Debug\ClientSpecial.pdb
+C:\Users\Administrator\Desktop\MC\bin\x86\Debug\ClientSpecial.xml
+C:\Users\Administrator\Desktop\MC\bin\x86\Debug\TeamPanelControl.pdb
+C:\Users\Administrator\Desktop\MC\bin\x86\Debug\Interop.MSDAOSP.dll
+C:\Users\Administrator\Desktop\MC\bin\x86\Debug\Interop.MSDASC.dll
+C:\Users\Administrator\Desktop\MC\bin\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\MC\bin\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ClientTangToc.frmIntroKD.resources
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ClientTangToc.frmSound.resources
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ClientTangToc.frmSound2.resources
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ClientTangToc.frmVCNVPic.resources
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ClientTangToc.frmVeDich.resources
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ClientTangToc.frmAnswerVCNV.resources
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ClientTangToc.frmAnswerTangToc.resources
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ClientTangToc.frmDisplayScore.resources
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ClientTangToc.frmMain.resources
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ClientTangToc.frmKhoiDong.resources
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ClientTangToc.frmTangToc.resources
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ClientTangToc.frmVuotCNV.resources
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ClientTangToc.frmWait.resources
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ClientTangToc.Resources.resources
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\MC\obj\x86\Debug\ResGen.write.1.tlog
+D:\Project\AllesWissen\MC\bin\x86\Debug\ClientSpecial.exe.config
+D:\Project\AllesWissen\MC\obj\x86\Debug\Interop.MSDAOSP.dll
+D:\Project\AllesWissen\MC\obj\x86\Debug\Interop.MSDASC.dll
+D:\Project\AllesWissen\MC\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Project\AllesWissen\MC\obj\x86\Debug\Interop.WMPLib.dll
+D:\Project\AllesWissen\MC\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Project\AllesWissen\MC\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Project\AllesWissen\MC\obj\x86\Debug\ClientSpecial.vbproj.ResolveComReference.cache
+D:\Project\AllesWissen\MC\obj\x86\Debug\ClientSpecial.exe
+D:\Project\AllesWissen\MC\obj\x86\Debug\ClientSpecial.xml
+D:\Project\AllesWissen\MC\obj\x86\Debug\ClientSpecial.pdb
